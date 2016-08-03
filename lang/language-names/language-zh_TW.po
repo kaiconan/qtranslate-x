@@ -7,19 +7,19 @@ msgid "en"
 msgstr "英文"
 
 msgid "en_US"
-msgstr "美式英文"
+msgstr "英文 (美國)"
 
 msgid "af"
-msgstr "南非荷兰文"
+msgstr "南非荷蘭文"
 
 msgid "ak"
-msgstr "阿肯文"
+msgstr "阿寒文"
 
 msgid "sq"
-msgstr "阿尔巴尼亚文"
+msgstr "阿爾巴尼亞文"
 
 msgid "arq"
-msgstr ""
+msgstr "阿拉伯文(阿爾及利亞)"
 
 msgid "am"
 msgstr "阿姆哈拉文"
@@ -28,145 +28,145 @@ msgid "ar"
 msgstr "阿拉伯文"
 
 msgid "hy"
-msgstr "亚美尼亚文"
+msgstr "亞美尼亞文"
 
 msgid "rup_MK"
-msgstr "阿罗马尼亚文"
+msgstr "阿羅馬尼亞文"
 
 msgid "frp"
-msgstr ""
+msgstr "阿普坦文"
 
 msgid "as"
-msgstr "阿萨姆文"
+msgstr "阿薩姆文"
 
 msgid "az"
-msgstr "阿塞拜疆文"
+msgstr "亞塞拜然文"
 
 msgid "az_TR"
-msgstr ""
+msgstr "亞塞拜然文(土耳其"
 
 msgid "bcc"
-msgstr ""
+msgstr "巴基斯坦"
 
 msgid "ba"
-msgstr "巴什客尔文"
+msgstr "巴什喀爾文"
 
 msgid "eu"
 msgstr "巴斯克文"
 
 msgid "bel"
-msgstr ""
+msgstr "白俄羅斯文"
 
 msgid "bn_BD"
 msgstr "孟加拉文"
 
 msgid "bs_BA"
-msgstr "波斯尼亚文"
+msgstr "波士尼亞文"
 
 msgid "bre"
-msgstr "布里多尼文"
+msgstr "布里敦文"
 
 msgid "bg_BG"
-msgstr "保加利亚文"
+msgstr "保加利亞文"
 
 msgid "ca"
-msgstr "加泰罗尼亚文"
+msgstr "卡達隆尼亞文"
 
 msgid "bal"
 msgstr "俾路支文"
 
 msgid "zh_CN"
-msgstr ""
+msgstr "中文(簡體)"
 
 msgid "zh_HK"
-msgstr ""
+msgstr "中文(香港)"
 
 msgid "zh_TW"
-msgstr ""
+msgstr "中文(中華民國)"
 
 msgid "co"
 msgstr "科西嘉文"
 
 msgid "hr"
-msgstr "克罗地亚文"
+msgstr "克羅埃西亞文"
 
 msgid "cs_CZ"
 msgstr "捷克文"
 
 msgid "da_DK"
-msgstr "丹麦文"
+msgstr "丹麥文"
 
 msgid "dv"
-msgstr "迪维希文"
+msgstr "迪維西文"
 
 msgid "nl_NL"
-msgstr "荷兰文"
+msgstr "荷蘭文"
 
 msgid "nl_BE"
-msgstr "佛兰芒文"
+msgstr "佛蘭德文"
 
 msgid "dzo"
-msgstr ""
+msgstr "宗卡文"
 
 msgid "en_AU"
-msgstr "澳大利亚英文"
+msgstr "英文(澳洲)"
 
 msgid "en_CA"
-msgstr "加拿大英文"
+msgstr "英文(加拿大)"
 
 msgid "en_NZ"
-msgstr ""
+msgstr "英文(紐西蘭)"
 
 msgid "en_ZA"
-msgstr ""
+msgstr "英文(南非)"
 
 msgid "en_GB"
-msgstr "英式英文"
+msgstr "英文(英國)"
 
 msgid "eo"
-msgstr "世界文"
+msgstr "世界語"
 
 msgid "et"
-msgstr "爱沙尼亚文"
+msgstr "愛沙尼亞文"
 
 msgid "fo"
-msgstr "法罗文"
+msgstr "法羅文"
 
 msgid "fi"
-msgstr "芬兰文"
+msgstr "芬蘭文"
 
 msgid "fr_BE"
-msgstr ""
+msgstr "法文(比利時)"
 
 msgid "fr_CA"
-msgstr "加拿大法文"
+msgstr "法文(加拿大)"
 
 msgid "fr_FR"
-msgstr "法文"
+msgstr "法文(法國)"
 
 msgid "fy"
-msgstr "西弗里西亚文"
+msgstr "西夫里斯蘭文"
 
 msgid "fur"
-msgstr "弗留利文"
+msgstr "佛裡烏裡文"
 
 msgid "fuc"
-msgstr ""
+msgstr "塞內加爾文"
 
 msgid "gl_ES"
-msgstr "加利西亚文"
+msgstr "加里斯亞文"
 
 msgid "ka_GE"
-msgstr "格鲁吉亚文"
+msgstr "	喬治亞文"
 
 msgid "de_DE"
 msgstr "德文"
 
 msgid "de_CH"
-msgstr "瑞士高地德文"
+msgstr "瑞士高德文"
 
 msgid "el"
-msgstr "希腊文"
+msgstr "希臘文"
 
 msgid "gn"
 msgstr "瓜拉尼文"
@@ -178,31 +178,31 @@ msgid "haw_US"
 msgstr "夏威夷文"
 
 msgid "haz"
-msgstr ""
+msgstr "阿富汗文"
 
 msgid "he_IL"
-msgstr "希伯来文"
+msgstr "希伯來文"
 
 msgid "hi_IN"
-msgstr "印地文"
+msgstr "印度文"
 
 msgid "hu_HU"
 msgstr "匈牙利文"
 
 msgid "is_IS"
-msgstr "冰岛文"
+msgstr "冰島文"
 
 msgid "ido"
-msgstr ""
+msgstr "伊多文"
 
 msgid "id_ID"
-msgstr "印度尼西亚文"
+msgstr "印尼文"
 
 msgid "ga"
-msgstr "爱尔兰文"
+msgstr "愛爾蘭文"
 
 msgid "it_IT"
-msgstr "意大利文"
+msgstr "義大利文"
 
 msgid "ja"
 msgstr "日文"
@@ -211,202 +211,202 @@ msgid "jv_ID"
 msgstr "爪哇文"
 
 msgid "kab"
-msgstr "卡比尔文"
+msgstr "卡拜爾文"
 
 msgid "kn"
-msgstr "卡纳达文"
+msgstr "埃納德文"
 
 msgid "kk"
-msgstr "哈萨克文"
+msgstr "哈薩克文"
 
 msgid "km"
 msgstr "高棉文"
 
 msgid "kin"
-msgstr ""
+msgstr "金揚萬答文"
 
 msgid "ky_KY"
-msgstr "吉尔吉斯文"
+msgstr "吉爾吉斯文"
 
 msgid "ko_KR"
-msgstr "韩文"
+msgstr "韓文"
 
 msgid "ckb"
-msgstr "索拉尼库尔德文"
+msgstr "中庫德文"
 
 msgid "lo"
-msgstr "老挝文"
+msgstr "寮文"
 
 msgid "lv"
-msgstr "拉脱维亚文"
+msgstr "拉脫維亞文"
 
 msgid "li"
-msgstr "淋布尔吉文"
+msgstr "林堡文"
 
 msgid "lin"
-msgstr ""
+msgstr "林格拉文"
 
 msgid "lt_LT"
 msgstr "立陶宛文"
 
 msgid "lb_LU"
-msgstr "卢森堡文"
+msgstr "盧森堡文"
 
 msgid "mk_MK"
-msgstr "马其顿文"
+msgstr "馬其頓文"
 
 msgid "mg_MG"
-msgstr "马尔加什文"
+msgstr "馬爾加文"
 
 msgid "ms_MY"
-msgstr "马来文"
+msgstr "馬來文"
 
 msgid "ml_IN"
-msgstr "马拉雅拉姆文"
+msgstr "馬來亞拉姆文"
 
 msgid "mri"
-msgstr ""
+msgstr "毛利文"
 
 msgid "mr"
-msgstr "马拉地文"
+msgstr "馬拉提文"
 
 msgid "xmf"
-msgstr ""
+msgstr "明格列爾文"
 
 msgid "mn"
 msgstr "蒙古文"
 
 msgid "me_ME"
-msgstr ""
+msgstr "曼德文"
 
 msgid "ary"
-msgstr ""
+msgstr "阿拉伯文(摩洛哥)"
 
 msgid "my_MM"
-msgstr ""
+msgstr "緬甸文"
 
 msgid "ne_NP"
-msgstr "尼泊尔文"
+msgstr "尼泊爾文"
 
 msgid "nb_NO"
-msgstr "挪威博克马尔文"
+msgstr "挪威文 (挪威)"
 
 msgid "nn_NO"
-msgstr "挪威尼诺斯克文"
+msgstr "挪威文 (尼洛斯克)"
 
 msgid "oci"
-msgstr ""
+msgstr "奧西坦文"
 
 msgid "ory"
-msgstr ""
+msgstr "歐利亞文"
 
 msgid "os"
-msgstr "奥塞梯文"
+msgstr "奧塞提文"
 
 msgid "ps"
-msgstr "普什图文"
+msgstr "普什圖文"
 
 msgid "fa_IR"
 msgstr "波斯文"
 
 msgid "fa_AF"
-msgstr ""
+msgstr "達里文"
 
 msgid "pl_PL"
-msgstr "波兰文"
+msgstr "波蘭文"
 
 msgid "pt_BR"
-msgstr "巴西葡萄牙文"
+msgstr "葡萄牙文(巴西)"
 
 msgid "pt_PT"
-msgstr "欧洲葡萄牙文"
+msgstr "葡萄牙文(歐洲)"
 
 msgid "pa_IN"
 msgstr "旁遮普文"
 
 msgid "rhg"
-msgstr ""
+msgstr "緬甸文"
 
 msgid "ro_RO"
-msgstr "罗马尼亚文"
+msgstr "羅馬尼亞文"
 
 msgid "roh"
-msgstr ""
+msgstr "列托-羅曼斯文"
 
 msgid "ru_RU"
-msgstr "俄文"
+msgstr "俄文(俄羅斯)"
 
 msgid "ru_UA"
-msgstr ""
+msgstr "俄文(烏克蘭)"
 
 msgid "rue"
-msgstr ""
+msgstr "盧森尼亞文"
 
 msgid "sah"
-msgstr "雅库特文"
+msgstr "薩哈語"
 
 msgid "sa_IN"
-msgstr ""
+msgstr "梵文"
 
 msgid "srd"
-msgstr ""
+msgstr "薩丁尼亞文"
 
 msgid "gd"
-msgstr "苏格兰盖尔文"
+msgstr "蘇格蘭蓋爾文"
 
 msgid "sr_RS"
-msgstr "塞尔维亚文"
+msgstr "塞爾維亞文"
 
 msgid "szl"
-msgstr ""
+msgstr "西萊亞西文"
 
 msgid "sd_PK"
 msgstr "信德文"
 
 msgid "si_LK"
-msgstr "僧伽罗文"
+msgstr "錫蘭文"
 
 msgid "sk_SK"
 msgstr "斯洛伐克文"
 
 msgid "sl_SI"
-msgstr "斯洛文尼亚文"
+msgstr "斯洛維尼亞文"
 
 msgid "so_SO"
-msgstr "索马里文"
+msgstr "索馬利文"
 
 msgid "azb"
-msgstr ""
+msgstr "	亞塞拜然文"
 
 msgid "es_AR"
-msgstr ""
+msgstr "西班牙文(阿根廷)"
 
 msgid "es_CL"
-msgstr ""
+msgstr "西班牙文(智利)"
 
 msgid "es_CO"
-msgstr ""
+msgstr "西班牙文(哥倫比亞)"
 
 msgid "es_MX"
-msgstr "墨西哥西班牙文"
+msgstr "西班牙文(墨西哥)"
 
 msgid "es_PE"
-msgstr ""
+msgstr "西班牙文(祕魯)"
 
 msgid "es_PR"
-msgstr ""
+msgstr "西班牙文(波多黎各)"
 
 msgid "es_ES"
-msgstr "欧洲西班牙文"
+msgstr "西班牙文(歐洲)"
 
 msgid "es_VE"
-msgstr ""
+msgstr "西班牙文(委內瑞拉)"
 
 msgid "su_ID"
-msgstr "巽他文"
+msgstr "巽丹文"
 
 msgid "sw"
-msgstr "斯瓦希里文"
+msgstr "史瓦西里文"
 
 msgid "sv_SE"
 msgstr "瑞典文"
@@ -415,62 +415,61 @@ msgid "gsw"
 msgstr "瑞士德文"
 
 msgid "tl"
-msgstr "塔加洛文"
+msgstr "塔加拉族文"
 
 msgid "tg"
 msgstr "塔吉克文"
 
 msgid "tzm"
-msgstr "塔马齐格特文"
+msgstr "中阿特拉斯塔馬塞特文"
 
 msgid "ta_IN"
-msgstr "泰米尔文"
+msgstr "坦米爾文"
 
 msgid "ta_LK"
-msgstr ""
+msgstr "坦米爾文(斯里蘭卡)"
 
 msgid "tt_RU"
-msgstr "塔塔尔文"
+msgstr "韃靼文"
 
 msgid "te"
-msgstr "泰卢固文"
+msgstr "特拉古文"
 
 msgid "th"
 msgstr "泰文"
 
 msgid "bo"
-msgstr "藏文"
+msgstr "西藏文"
 
 msgid "tir"
-msgstr ""
+msgstr "提格里尼亞文"
 
 msgid "tr_TR"
 msgstr "土耳其文"
 
 msgid "tuk"
-msgstr ""
+msgstr "土庫曼文"
 
 msgid "ug_CN"
-msgstr "维吾尔文"
+msgstr "維吾爾文"
 
 msgid "uk"
-msgstr "乌克兰文"
+msgstr "烏克蘭文"
 
 msgid "ur"
-msgstr "乌尔都文"
+msgstr "烏都文"
 
 msgid "uz_UZ"
-msgstr "乌兹别克文"
+msgstr "烏玆別克文"
 
 msgid "vi"
 msgstr "越南文"
 
 msgid "wa"
-msgstr "瓦隆文"
+msgstr "華隆文"
 
 msgid "cy"
-msgstr "威尔士文"
+msgstr "威爾斯文"
 
 msgid "yor"
-msgstr ""
-
+msgstr "優魯巴文"
